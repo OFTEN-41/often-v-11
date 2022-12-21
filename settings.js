@@ -63,13 +63,13 @@ global.location = "India, Kerala" //ur location
 //bot bomdy 
 global.owner = ['918129927512']
 global.ownertag = '918129927512' //ur tag number
-global.botname = '' //ur bot name
+global.botname = '🍒𝝀ꪶ𝝀νυ∂єєи ͢ 𝘴ꫀ𝘳 ͢🍷' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/OFTEN-41/often-v-11' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = " Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "🍒𝝀ꪶ𝝀νυ∂єєи ͢ 𝘴ꫀ𝘳 ͢🍷 Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "Alauddin ser" //ur sticker watermark author
 
 //Bot theme media
